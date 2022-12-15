@@ -1,0 +1,5 @@
+*.zip
+*.7z
+.wget-hsts
+fonts/
+output/
