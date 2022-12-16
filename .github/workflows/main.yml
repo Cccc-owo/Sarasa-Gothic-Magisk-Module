@@ -31,4 +31,4 @@ jobs:
       - name: Upload generated files
         uses: actions/upload-artifact@v3.1.1
         with:
-          path: output.zip
+          path: Sarasa-Gothic-Font-Magisk-Module.zip
