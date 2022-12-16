@@ -5,4 +5,4 @@ version=1.0.2
 versionCode=4
 author=Cccc_ & lxgw (github.com/lxgw)
 description=一个将系统字体替换为更纱黑体的 Magisk 模块
-updateJson=https://cdn.jsdelivr.net/gh/Cccc-owo/Sarasa-Gothic-Magisk-Module@main/update.json
+updateJson=https://raw.fastgit.org/Cccc-owo/Sarasa-Gothic-Magisk-Module/main/update.json
