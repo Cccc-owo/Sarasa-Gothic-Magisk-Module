@@ -5,7 +5,7 @@ set template_zip=https://github.com/lxgw/advanced-cjk-font-magisk-module-templat
 ECHO Time:%date%
 ECHO Checking the required folder...
 if not exist output\ ( mkdir output\ ) else ( del /F /S /Q output\ & rmdir /S /Q output\ & mkdir output\ )
-if exist output.zip del /F /S /Q output.zip
+if exist Sarasa-Gothic-Font-Magisk-Module.zip del /F /S /Q Sarasa-Gothic-Font-Magisk-Module.zip
 if exist fonts\ del /F /S /Q fonts\ & rmdir /S /Q fonts\
 ::integrating files
 ECHO.
@@ -33,7 +33,7 @@ del /F /S /Q output\module.prop
 xcopy module.prop output\
 ECHO.
 ECHO Compressing the generated files...
-7z.exe a output.zip .\output\*
+7z.exe a Sarasa-Gothic-Font-Magisk-Module.zip .\output\*
 ::done
 ECHO.
 ECHO End of script running.
