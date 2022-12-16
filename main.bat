@@ -19,7 +19,7 @@ ren output\system\fonts\sarasa-gothic-sc-extralight.ttf fonten2.ttf
 ren output\system\fonts\sarasa-gothic-sc-light.ttf fonten3.ttf
 ren output\system\fonts\sarasa-gothic-sc-regular.ttf fonten4.ttf
 xcopy output\system\fonts\fonten4.ttf output\system\fonts\fonten5.ttf /Q /-I /Y
-ren output\system\fonts\sarasa-gothic-sc-semibold.ttf onten6.ttf
+ren output\system\fonts\sarasa-gothic-sc-semibold.ttf fonten6.ttf
 ren output\system\fonts\sarasa-gothic-sc-bold.ttf fonten7.ttf
 
 ren output\system\fonts\sarasa-gothic-sc-extralightitalic.ttf fontei2.ttf
