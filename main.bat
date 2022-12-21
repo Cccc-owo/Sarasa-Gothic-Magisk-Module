@@ -22,12 +22,12 @@ copy output\system\fonts\fonten4.ttf /Y output\system\fonts\fonten5.ttf
 ren output\system\fonts\sarasa-gothic-sc-semibold.ttf fonten6.ttf
 ren output\system\fonts\sarasa-gothic-sc-bold.ttf fonten7.ttf
 
-ren output\system\fonts\sarasa-gothic-sc-extralightitalic.ttf fontei2.ttf
-ren output\system\fonts\sarasa-gothic-sc-lightitalic.ttf fontei3.ttf
-ren output\system\fonts\sarasa-gothic-sc-italic.ttf fontei4.ttf
-copy output\system\fonts\fontei4.ttf /Y output\system\fonts\fontei5.ttf
-ren output\system\fonts\sarasa-gothic-sc-semibolditalic.ttf fontei6.ttf
-ren output\system\fonts\sarasa-gothic-sc-bolditalic.ttf fontei7.ttf
+::ren output\system\fonts\sarasa-gothic-sc-extralightitalic.ttf fontei2.ttf
+::ren output\system\fonts\sarasa-gothic-sc-lightitalic.ttf fontei3.ttf
+::ren output\system\fonts\sarasa-gothic-sc-italic.ttf fontei4.ttf
+::copy output\system\fonts\fontei4.ttf /Y output\system\fonts\fontei5.ttf
+::ren output\system\fonts\sarasa-gothic-sc-semibolditalic.ttf fontei6.ttf
+::ren output\system\fonts\sarasa-gothic-sc-bolditalic.ttf fontei7.ttf
 
 del /F /S /Q output\module.prop
 xcopy module.prop output\
