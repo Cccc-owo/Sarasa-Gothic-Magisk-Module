@@ -15,12 +15,12 @@ wget.exe -O "Template.zip" %template_zip%
 7z.exe x Template.zip -r -o.\output
 xcopy fonts\sarasa-gothic-sc-*.ttf output\system\fonts /E /Q /C /Y
 
-ren output\system\fonts\sarasa-gothic-sc-extralight.ttf fontch2.ttf
-ren output\system\fonts\sarasa-gothic-sc-light.ttf fontch3.ttf
-ren output\system\fonts\sarasa-gothic-sc-regular.ttf fontch4.ttf
-copy output\system\fonts\fontch4.ttf /Y output\system\fonts\fontch5.ttf
-ren output\system\fonts\sarasa-gothic-sc-semibold.ttf fontch6.ttf
-ren output\system\fonts\sarasa-gothic-sc-bold.ttf fontch7.ttf
+ren output\system\fonts\sarasa-gothic-sc-extralight.ttf fontchw2.ttf
+ren output\system\fonts\sarasa-gothic-sc-light.ttf fontchw3.ttf
+ren output\system\fonts\sarasa-gothic-sc-regular.ttf fontchw4.ttf
+copy output\system\fonts\fontchw4.ttf /Y output\system\fonts\fontchw5.ttf
+ren output\system\fonts\sarasa-gothic-sc-semibold.ttf fontchw6.ttf
+ren output\system\fonts\sarasa-gothic-sc-bold.ttf fontchw7.ttf
 
 del /F /S /Q output\system\fonts\sarasa-gothic-sc-extralightitalic.ttf
 del /F /S /Q output\system\fonts\sarasa-gothic-sc-lightitalic.ttf
