@@ -3,6 +3,8 @@ name: Release
 env:
   TZ: Asia/Shanghai
 
+permissions: write-all
+
 on:
   release:
     types: [published]
