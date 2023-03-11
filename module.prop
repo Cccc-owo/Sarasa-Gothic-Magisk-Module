@@ -1,8 +1,8 @@
 # id 只能填 字母 数字 半角符号
 id=sarasa-gothic-font
 name=更纱黑体 Magisk 字体模块
-version=1.0.9
-versionCode=11
+version=1.1.0
+versionCode=12
 author=Cccc_ & lxgw & be5invis
 description=一个将系统字体替换为更纱黑体的 Magisk 模块
 updateJson=https://raw.fastgit.org/Cccc-owo/Sarasa-Gothic-Magisk-Module/main/update.json
