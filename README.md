@@ -4,7 +4,7 @@
 
 在 [Release](https://github.com/Cccc-owo/Sarasa-Gothic-Magisk-Module/releases/latest) 下载并在 Magisk 中刷入 ```Sarasa-Gothic-Font-Magisk-Module.zip```。（推荐） 
 
-建议与[「遍黑体」外挂补全 Magisk 模块](https://github.com/lxgw/Plangothic-magisk-module)一起使用
+建议与[「遍黑体」外挂补全 Magisk 模块](https://github.com/Cccc-owo/Another-Plangothic-magisk-module)一起使用
 
 ## 引用
 
