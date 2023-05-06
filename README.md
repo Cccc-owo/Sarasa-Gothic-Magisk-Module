@@ -2,7 +2,7 @@
 
 ## 使用
 
-在 [Release](https://github.com/Cccc-owo/Sarasa-Gothic-Magisk-Module/releases/latest) 下载并在 Magisk 中刷入 ```Sarasa-Gothic-Font-Magisk-Module.zip```。（推荐） 
+在 [Release](https://github.com/Cccc-owo/Sarasa-Gothic-Magisk-Module/releases/latest) 下载并在 Magisk 中刷入 ```Sarasa-Gothic-Font-Magisk-Module.zip```。（推荐）
 
 建议与[「遍黑体」外挂补全 Magisk 模块](https://github.com/Cccc-owo/Another-Plangothic-magisk-module)一起使用
 
@@ -11,6 +11,6 @@
 |/|版本|
 |-|-|
 |[CJK Font Magisk Module Template](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)|v3.3.220605|
-|[Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)|v0.40.6|
+|[Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)|v0.40.7|
 |[7-zip](https://7-zip.org/)|v22.01|
 |[wget](https://eternallybored.org/misc/wget/)|v1.21.3|
