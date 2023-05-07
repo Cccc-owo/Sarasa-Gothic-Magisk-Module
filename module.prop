@@ -5,4 +5,4 @@ version=1.1.4
 versionCode=16
 author=Cccc_ & lxgw & be5invis
 description=一个将系统字体替换为更纱黑体的 Magisk 模块
-updateJson=https://github.com/Cccc-owo/Sarasa-Gothic-Magisk-Module/raw/main/changelog.md
+updateJson=https://github.com/Cccc-owo/Sarasa-Gothic-Magisk-Module/raw/main/update.json
