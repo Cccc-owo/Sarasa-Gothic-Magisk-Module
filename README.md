@@ -11,6 +11,6 @@
 |/|版本|
 |-|-|
 |[CJK Font Magisk Module Template](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)|v3.3.220605|
-|[Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)|v0.41.4|
+|[Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)|v0.41.5|
 |[7-zip](https://7-zip.org/)|v22.01|
 |[wget](https://eternallybored.org/misc/wget/)|v1.21.3|
