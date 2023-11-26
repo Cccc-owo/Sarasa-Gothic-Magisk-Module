@@ -19,20 +19,20 @@ ren output\system\fonts\SarasaUiSC-ExtraLight.ttf fontchw2.ttf
 ren output\system\fonts\SarasaUiSC-Light.ttf fontchw3.ttf
 ren output\system\fonts\SarasaUiSC-Regular.ttf fontchw4.ttf
 copy output\system\fonts\fontchw4.ttf /Y output\system\fonts\fontchw5.ttf
-ren output\system\fonts\SarasaUiSC-SemiNold.ttf fontchw6.ttf
+ren output\system\fonts\SarasaUiSC-SemiBold.ttf fontchw6.ttf
 ren output\system\fonts\SarasaUiSC-Bold.ttf fontchw7.ttf
 
 del /F /S /Q output\system\fonts\SarasaUiSC-ExtraLightItalic.ttf
 del /F /S /Q output\system\fonts\SarasaUiSC-LightItalic.ttf
 del /F /S /Q output\system\fonts\SarasaUiSC-Italic.ttf
-del /F /S /Q output\system\fonts\SarasaUiSC-SemiNoldItalic.ttf
+del /F /S /Q output\system\fonts\SarasaUiSC-SemiBoldItalic.ttf
 del /F /S /Q output\system\fonts\SarasaUiSC-BoldItalic.ttf
 
 ::ren output\system\fonts\SarasaUiSC-ExtraLightItalic.ttf fontei2.ttf
 ::ren output\system\fonts\SarasaUiSC-LightItalic.ttf fontei3.ttf
 ::ren output\system\fonts\SarasaUiSC-Italic.ttf fontei4.ttf
 ::copy output\system\fonts\fontei4.ttf /Y output\system\fonts\fontei5.ttf
-::ren output\system\fonts\SarasaUiSC-SemiNoldItalic.ttf fontei6.ttf
+::ren output\system\fonts\SarasaUiSC-SemiBoldItalic.ttf fontei6.ttf
 ::ren output\system\fonts\SarasaUiSC-BoldItalic.ttf fontei7.ttf
 
 del /F /S /Q output\module.prop
