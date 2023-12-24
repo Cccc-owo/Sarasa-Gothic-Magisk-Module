@@ -1,5 +1,5 @@
 @ECHO OFF
-set font_zip=https://github.com/be5invis/Sarasa-Gothic/releases/download/v1.0.0-beta.2/Sarasa-TTF-1.0.0-beta.2.7z
+set font_zip=https://github.com/be5invis/Sarasa-Gothic/releases/download/v1.0.0/Sarasa-TTF-1.0.0.7z
 set template_zip=https://github.com/lxgw/advanced-cjk-font-magisk-module-template/releases/download/v3.3.220605/FontTemplateA-Magisk204.zip
 ::checking
 ECHO Time:%date%
