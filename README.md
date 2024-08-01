@@ -1,5 +1,7 @@
 # 更纱黑体 Magisk 字体替换模块
 
+由于所使用的字体模块模板可能存在的问题，本模块亦停止更新。
+
 ## 使用
 
 在 [Release](https://github.com/Cccc-owo/Sarasa-Gothic-Magisk-Module/releases/latest) 下载并在 Magisk 中刷入 ```Sarasa-Gothic-Font-Magisk-Module.zip```。（推荐）
